@@ -1,0 +1,12 @@
+Attempting to create AgentSkill...
+SUCCESS: AgentSkill created.
+
+Attempting to create AgentCard...
+ERROR: AgentCard validation failed.
+2 validation errors for AgentCard
+defaultInputModes
+  Field required [type=missing, input_value={'name': 'Market Analysis...y=None, tags=['test'])]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+defaultOutputModes
+  Field required [type=missing, input_value={'name': 'Market Analysis...y=None, tags=['test'])]}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
