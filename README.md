@@ -2,6 +2,9 @@
 
 A sophisticated multi-agent system for cryptocurrency trading, real-time market analysis, and AI-driven mentorship, powered by **Google ADK (Gemini)** and **A2A Protocol**.
 
+## Web Interface
+![Alt text](trading.jpg)
+
 ## Table of Contents
 - [Features](#features)
 - [Quick Start](#quick-start)
